@@ -5,7 +5,6 @@
 ---
 
 ## 🎯 Sobre Mim
-> **"Escrevendo código como quem dirige um filme — cada linha conta uma história."**
 
 - 🎓 Estudante de **Sistemas para Internet** na **UNICAP**
 - 💻 Foco em **Java** (alta prioridade), **PHP** e **JavaScript**
