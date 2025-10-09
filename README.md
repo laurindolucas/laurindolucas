@@ -7,7 +7,7 @@
 ## 🎯 Sobre Mim
 
 - 🎓 Estudante de **Sistemas para Internet** na **UNICAP**
-- 💻 Foco em **Java** (alta prioridade), **PHP** e **JavaScript**
+- 💻 Full-Stack com foco em front-end
 - 🚀 Apaixonado por **tecnologia, design e contar histórias através de projetos**
 - 🎯 Objetivo atual: **primeiro estágio como dev**
 - 🌍 Criador de conteúdo sobre **programação & lifestyle**
