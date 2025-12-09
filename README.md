@@ -46,9 +46,8 @@
 
 ## 📊 Estatísticas
 <div align="center">
- <img width="100%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurindolucas&layout=compact&hide_border=true&title_color=D41b22&text_color=ffffff&bg_color=0d1117" />
+  <img src="https://streak-stats.demolab.com?user=laurindolucas&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
 ---
 
 ## 🌐 Onde me Encontrar
